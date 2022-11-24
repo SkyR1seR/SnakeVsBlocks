@@ -3,11 +3,7 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
 using TMPro;
-using Unity.VisualScripting;
-using UnityEditor;
-using UnityEditor.UI;
 using UnityEngine;
-using static UnityEditor.Progress;
 
 public class Generator : MonoBehaviour
 {
